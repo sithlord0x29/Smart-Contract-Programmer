@@ -17,3 +17,6 @@ contract HelloWorld {</br>
 6. State visiblity = 'public' (read access)
 7. Name the variable = 'greet'
 8. Create the value of the variable = 'Hello World!'
+[ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
+[ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
+[ERC 4626](https://ethereum.org/en/developers/docs/standards/tokens/erc-1155/)
